@@ -25,5 +25,5 @@ Dr. Rafaa Aljarbou
 - [Activity Diagram](diagrams/UML%20Diagrams%20Activity%20Diagram.jpeg)
 - [Sequence Diagram]([diagrams/UML%20Diagrams%20Sequence%20Diagram.png](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Sequence%20Diagram.png))
 - [State Diagram]([diagrams/UML%20Diagrams%20State%20Diagram.jpeg](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20State%20Diagram.jpeg))
-- [Class Diagram](diagrams/UML%20Diagrams%20Class%20Diagram.jpeg)
+- [Class Diagram]([diagrams/UML%20Diagrams%20Class%20Diagram.jpeg](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Class%20Diagram.jpeg))
 - [Architecture Model](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/Architecture%20Model.jpeg)
