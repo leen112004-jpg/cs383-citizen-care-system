@@ -23,7 +23,7 @@ Dr. Rafaa Aljarbou
 
 - [Use Case Diagram](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/Use%20Case%20Diagram.jpeg)
 - [Activity Diagram]((https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Activity%20Diagram.jpeg))
-- [Sequence Diagram]((https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Sequence%20Diagram.png))
+- [Sequence Diagram](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Sequence%20Diagram.png)
 - [State Diagram](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20State%20Diagram.jpeg)
 - [Class Diagram]((https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/UML%20Diagrams%20Class%20Diagram.jpeg))
 - [Architecture Model](https://raw.githubusercontent.com/leen112004-jpg/cs383-citizen-care-system/refs/heads/main/diagram/Architecture%20Model.jpeg)
