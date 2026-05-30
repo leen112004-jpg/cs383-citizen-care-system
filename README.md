@@ -17,7 +17,7 @@ Dr. Rafaa Aljarbou
 - [Project Report](docs/CS383-Project-Report.pdf)
 
 ## Presentation
-- [Presentation Slides](presentation/Project Presentation.pdf)
+- [Presentation Slides](presentation/Presentation.pdf)
 
 ## UML Diagrams (Grayscale)
 
