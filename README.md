@@ -26,4 +26,4 @@ Dr. Rafaa Aljarbou
 - [Sequence Diagram](diagrams/UML%20Diagrams%20Sequence%20Diagram.png)
 - [State Diagram](diagrams/UML%20Diagrams%20State%20Diagram.jpeg)
 - [Class Diagram](diagrams/UML%20Diagrams%20Class%20Diagram.jpeg)
-- [Architecture Model](diagrams/Architecture%20Model.jpeg)
+- [Architecture Model]([diagrams/Architecture%20Model.jpeg](https://www.bing.com/search?q=Healthcare+System+Architecture&bcid=VfGMbyRn4.AJHJV.JXqgvHlKJttd.....wg&FORM=SBIHVR&hq=1))
